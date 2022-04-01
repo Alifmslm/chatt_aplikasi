@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082984078478",
+    "project_id": "chatt-aplikasi",
+    "storage_bucket": "chatt-aplikasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082984078478:android:a7d180b27d53cf49177ddf",
+        "android_client_info": {
+          "package_name": "com.example.chatt_aplikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082984078478-ojvc58p443idt0nqe61jber7fqtfnmia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCn6-LlX-AWHZLyCqjuaKkE0A6Jmv-0PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082984078478-ojvc58p443idt0nqe61jber7fqtfnmia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
